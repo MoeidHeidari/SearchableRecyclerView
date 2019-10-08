@@ -1,7 +1,11 @@
 package com.example.searchablerecyclerview;
+
+import com.example.searchablerecyclerview2.Annotations.Searchable;
+
 public class ViewModel
 {
 
+    @Searchable
     String name;
     String family;
 
