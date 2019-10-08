@@ -1,0 +1,2 @@
+include ':app', ':searchablerecyclerview2'
+rootProject.name='SearchableRecyclerView'
